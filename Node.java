@@ -1,4 +1,3 @@
-package tobb.etu.decisionTree;
 
 public class Node {
 	private Node left,right,parent;
