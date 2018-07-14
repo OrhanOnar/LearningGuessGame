@@ -1,0 +1,74 @@
+Yuklemek istediginiz bir dosya var mi?
+evet
+Dosya ismi :
+DT.txt
+Aklinizdan bir hayvan tutun, ben onu tahmin etmeye calisacagim.
+Hazir olunca enter'a basin lutfen.
+
+Etcil mi?
+hayir
+Uzerinde cizgileri var mi?
+hayir
+Kabugu var mi?
+hayir
+Vahsi olarak yasayabilir mi?
+evet
+Bence tuttugunuz hayvan geyik
+Tahminim dogru mu?
+hayir
+Ne tutmustunuz?
+at
+Bana at'yi geyik'den ayirmami saglayacak bir evet/hayir sorusu soyler misiniz?
+(Evet cevabi at icin olmalidir.)
+Binek hayvani midir?
+at 'yi ogrendim.
+Bir daha oynamak ister misiniz?
+evet
+Aklinizdan bir hayvan tutun, ben onu tahmin etmeye calisacagim.
+Hazir olunca enter'a basin lutfen.
+
+Etcil mi?
+hayir
+Uzerinde cizgileri var mi?
+hayir
+Kabugu var mi?
+hayir
+Vahsi olarak yasayabilir mi?
+evet
+Binek hayvani midir?
+hayir
+Bence tuttugunuz hayvan geyik
+Tahminim dogru mu?
+hayir
+Ne tutmustunuz?
+tavsan
+Bana tavsan'yi geyik'den ayirmami saglayacak bir evet/hayir sorusu soyler misiniz?
+(Evet cevabi tavsan icin olmalidir.)
+havuc sever mi?
+tavsan 'yi ogrendim.
+Bir daha oynamak ister misiniz?
+evet
+Aklinizdan bir hayvan tutun, ben onu tahmin etmeye calisacagim.
+Hazir olunca enter'a basin lutfen.
+
+Etcil mi?
+evet
+Uzerinde belirgin desenleri var mi?
+hayir
+Kis uykusuna yatar mi?
+hayir
+Bence tuttugunuz hayvan aslan
+Tahminim dogru mu?
+hayir
+Ne tutmustunuz?
+kurt
+Bana kurt'yi aslan'den ayirmami saglayacak bir evet/hayir sorusu soyler misiniz?
+(Evet cevabi kurt icin olmalidir.)
+ulur mu?
+kurt 'yi ogrendim.
+Bir daha oynamak ister misiniz?
+hayir
+Ogrenilen karar agacini kaydetmek ister misiniz?
+evet
+Dosya ismi :
+DT2.txt
